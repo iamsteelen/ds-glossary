@@ -1,4 +1,4 @@
-Title: Design Token Test 1
+## Design Token Test 1
 
 **Category**: Tokens
 
