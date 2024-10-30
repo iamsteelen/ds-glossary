@@ -1,3 +1,7 @@
 Term: Design Token 11
 Category: Tokens
 Definition: Design tokens store visual style values.
+
+Term: Design Token 1
+Category: Tokens
+Definition: Design tokens store visual style values.
