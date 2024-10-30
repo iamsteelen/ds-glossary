@@ -1,4 +1,4 @@
-## Design Token Test 1
+## Design Token Test 
 
 **Category**: Tokens
 
