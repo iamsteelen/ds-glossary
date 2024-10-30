@@ -1,3 +1,10 @@
-## 2
-**Category**: Tokens
-**Definition**: Design tokens are variables that store design decisions, such as colors and typography.
+[
+  {
+    "title": "Design Token Test 1",
+    "category": "Tokens",
+    "definition": "Design tokens are variables that store design decisions, such as colors and typography."
+  },
+  {
+    // ... data for another glossary entry
+  }
+]
