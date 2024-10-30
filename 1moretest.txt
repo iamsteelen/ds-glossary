@@ -1,0 +1,3 @@
+Term: Design Token
+Category: Tokens
+Definition: Design tokens store visual style values.
