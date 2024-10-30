@@ -1,0 +1,6 @@
+- term: Design Token
+  category: Tokens
+  definition: Design tokens are variables used in design systems to store visual style values.
+- term: Spacing
+  category: Layout
+  definition: Spacing refers to the consistent use of margins and padding across components.
