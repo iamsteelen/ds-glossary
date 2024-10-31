@@ -1,22 +1,8 @@
 [
   {
-    "term": "Button1",
-    "category": "Component2",
-    "definition": "A UI element used to trigger actions.2"
+    "term": "Type",
+    "category": "UI",
+    "definition": "44"
   },
-   {
-    "term": "Button1",
-    "category": "Component2",
-    "definition": "A UI element used to trigger actions.2"
-  },
-  {
-    "term": "Button1",
-    "category": "Component2",
-    "definition": "A UI element used to trigger actions.2"
-  },
-  {
-    "term": "Button2",
-    "category": "Component2",
-    "definition": "A UI element used to trigger actions.1"
-  },
+   
 ]
