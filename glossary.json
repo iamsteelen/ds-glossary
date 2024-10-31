@@ -4,9 +4,4 @@
     "category": "Component",
     "definition": "A UI element used to trigger actions."
   },
-  {
-    "term": "Typography",
-    "category": "Style",
-    "definition": "Styles related to fonts, including size, weight, and spacing."
-  }
 ]
