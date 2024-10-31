@@ -9,4 +9,9 @@
     "category": "Style",
     "definition": "Styles related to fonts, including size, weight, and spacing."
   },
+  {
+    "term": "Test",
+    "category": "Testing",
+    "definition": "More test"
+  },
 ]
