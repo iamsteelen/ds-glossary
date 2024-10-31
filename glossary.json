@@ -4,9 +4,4 @@
     "category": "Component",
     "definition": "A UI element used to trigger actions. "
   },
-  {
-    "term": "Test",
-    "category": "Test",
-    "definition": "test "
-  },
 ]
