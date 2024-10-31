@@ -9,4 +9,9 @@
     "category": "Test",
     "definition": "Test"
   },
+  {
+    "term": "Test1",
+    "category": "Test2",
+    "definition": "Test2"
+  },
 ]
