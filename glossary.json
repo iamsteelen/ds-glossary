@@ -2,6 +2,11 @@
   {
     "term": "Button",
     "category": "Component",
-    "definition": "A UI element used to trigger actions. "
+    "definition": "A UI element used to trigger actions."
+  },
+  {
+    "term": "Test",
+    "category": "TEst",
+    "definition": "Test."
   },
 ]
